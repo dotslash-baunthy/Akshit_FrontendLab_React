@@ -44,3 +44,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Some notes and liberties taken
+
+- There are only two users (Ramesh and Rahul)
+- The total sum to be paid by a user equals (total-larger spent)/2. Mathematically, that equals abs(person1Spent-person2Spent)/2
